@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Hello Word</h1>      </header>
+        <h1>Hello Word from Qurban Ali</h1>      </header>
     </div>
   );
 }
