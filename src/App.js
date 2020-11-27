@@ -6,8 +6,9 @@ import Room from './components/Room'
 function App() {
   return (
     <div className="App">
-      <Hello name ='Qurban Ali'/>
       <Room/>
+      <Hello name ='Qurban Ali'/>
+      
       
     </div>
   );
