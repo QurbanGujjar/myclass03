@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Hello extends Component {
     render() {
         return (
-            <div>
+            <div className ='hello'>
                 <p>Hello World From <strong> { this.props.name} </strong></p>
             <h1>Unordered List of Items</h1>
             <ul>

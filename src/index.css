@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.hello{
+  background-color:blueviolet;
+}
+.hello h1{
+  font-style: italic;
+  font-size: 3.3em;
+}
+.hello li{
+  font-style: italic;
+  font-size: 1.3em;
+}
