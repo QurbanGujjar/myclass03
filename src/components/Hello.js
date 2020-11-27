@@ -21,6 +21,7 @@ class Hello extends Component {
                 <li>Mango</li>
                 <li>Gawa</li>
             </ol>
+        <p> 10 + 15 = {10 +15 }</p>
             </div>
         )
     }
