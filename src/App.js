@@ -10,7 +10,7 @@ function App() {
       <MediaCard name='Qurban Ali gujjar' heroname ='Ali'/>
       <Room/>
       <Hello name ='Qurban Ali'/>
-      
+      <h1>updateted by javed</h1>
       
     </div>
   );
